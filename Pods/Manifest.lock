@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.1.0)
+  - ANLoader (2.0.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ANLoader (from `https://github.com/ANSCoder/ANLoader.git`)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  ANLoader:
+    :git: https://github.com/ANSCoder/ANLoader.git
+
+CHECKOUT OPTIONS:
+  ANLoader:
+    :commit: b45b12600a4dc693b83d88640e24ca0bb545fa79
+    :git: https://github.com/ANSCoder/ANLoader.git
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  ANLoader: 25f4ed93f5d13678eb72a38c2f674acfcaba8205
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 7a0520b79c147d61e135d0acbc122aa4e4e8f169
+
+COCOAPODS: 1.8.4
